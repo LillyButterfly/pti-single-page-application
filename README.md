@@ -1,5 +1,7 @@
 # PTI Single Page Application
 
+![Captura de Tela (7406)](https://github.com/LillyButterfly/pti-single-page-application/assets/88951197/7081a8ed-a3f1-4305-976f-b51c841ea9b1)
+![Captura de Tela (7407)](https://github.com/LillyButterfly/pti-single-page-application/assets/88951197/d80e86dc-1510-465d-b764-95b5d06ad9fb)
 
 
 > Projeto Senac SP
